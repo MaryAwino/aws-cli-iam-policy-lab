@@ -26,7 +26,40 @@ By completing this lab, I learned how to:
 - **File format:** JSON
 
 ## 4. Lab Tasks and Commands
+### Task 1: Connect to the EC2 instance
 
+Connected to the lab's Linux EC2 instance through SSH using the provided lab credentials and key pair.
+
+### Task 2: Install and verify AWS CLI
+
+The lab instructions use the following commands to download and install AWS CLI v2 on a Red Hat Linux instance:
+
+```bash
+curl "https://awscli.amazonaws.com/awscli-exe-linux-x86_64.zip" -o "awscliv2.zip"
+unzip -u awscliv2.zip
+sudo ./aws/install
+```
+
+Verify the installation:
+
+```bash
+aws --version
+```
+
+### Task 3: Configure AWS CLI
+
+Configured AWS CLI using the credentials provided by the lab environment:
+
+```bash
+aws configure
+```
+
+Configuration used:
+
+- Default region: `us-west-2`
+- Default output format: `json`
+
+**Security:** Credentials were entered interactively and must not be included in public documentation.
 ### Task 1: List IAM users
 
 ```bash
