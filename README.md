@@ -161,13 +161,13 @@ This hands-on lab strengthened my understanding of AWS CLI operations, IAM polic
 ## Screenshots
 
 ### 1. List IAM Policies
-![List IAM Policies](screenshots/01-list-iam-policy.png)
+![List IAM Policies](/01-list-iam-policy.png)
 
 ### 2. Retrieve IAM Policy Version
-![Retrieve IAM Policy Version](screenshots/02-retrieve-policy-version.png)
+![Retrieve IAM Policy Version](/02-retrieve-policy-version.png)
 
 ### 3. Save the Policy JSON File
-![Save Policy JSON](screenshots/03-save-policy-json.png)
+![Save Policy JSON](/03-save-policy-json.png)
 
 ### 4. Validate the JSON File
-![Validate Policy JSON](screenshots/04-validate-policy-json.png)
+![Validate Policy JSON](/04-validate-policy-json.png)
