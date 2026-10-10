@@ -158,3 +158,16 @@ This reinforced the importance of reading AWS CLI error messages and checking re
 This hands-on lab strengthened my understanding of AWS CLI operations, IAM policy inspection, and JSON file handling. These skills are useful for cloud administration, troubleshooting, security reviews, and automation.
 
 **Lab status:** Completed policy retrieval, file creation, and JSON validation.
+## Screenshots
+
+### 1. List IAM Policies
+![List IAM Policies](screenshots/01-list-iam-policy.png)
+
+### 2. Retrieve IAM Policy Version
+![Retrieve IAM Policy Version](screenshots/02-retrieve-policy-version.png)
+
+### 3. Save the Policy JSON File
+![Save Policy JSON](screenshots/03-save-policy-json.png)
+
+### 4. Validate the JSON File
+![Validate Policy JSON](screenshots/04-validate-policy-json.png)
