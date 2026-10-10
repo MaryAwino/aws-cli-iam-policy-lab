@@ -167,7 +167,7 @@ This hands-on lab strengthened my understanding of AWS CLI operations, IAM polic
 ![Retrieve IAM Policy Version](02-retrieve-policy-version.png)
 
 ### 3. Save the Policy JSON File
-![Save Policy JSON](03-save-policy-json.png)
+![Save lab Policy JSON](03-save-policy-json.png)
 
 ### 4. Validate the JSON File
 ![Validate Policy JSON](04-validate-policy-json.png)
